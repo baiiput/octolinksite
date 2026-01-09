@@ -3,6 +3,8 @@ Allow: /
 
 # Allow all important pages
 Allow: /faq-starlink-indonesia
+Allow: /harga-starlink-indonesia
+Allow: /lonjakan-tarif-starlink-indonesia
 Allow: /jasa-starlink-jakarta
 Allow: /jasa-starlink-surabaya
 Allow: /jasa-starlink-bali
